@@ -31,3 +31,9 @@ Clone the repository and install the dependencies:
 git clone [https://github.com/Roshan08srm/weather-prediction.git](https://github.com/Roshan08srm/weather-prediction.git)
 cd weather-prediction/project
 npm install
+
+<img width="1890" height="937" alt="home" src="https://github.com/user-attachments/assets/f2d4c3c6-1b0a-4476-81ed-5e74a98837a4" />
+
+<img width="1874" height="483" alt="Screenshot 2026-02-13 203441" src="https://github.com/user-attachments/assets/a89a9764-a4fe-4be7-ba84-fe23b7537586" />
+
+<img width="1885" height="927" alt="soil" src="https://github.com/user-attachments/assets/17916ff3-0ade-4182-bf6c-3b4e738050d3" />
